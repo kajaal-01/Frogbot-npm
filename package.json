@@ -1,0 +1,15 @@
+{
+  "name": "jfrog-frogbot-demo",
+  "version": "1.0.0",
+  "description": "demo repository to show frogbot capabilites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "mongoose": "^5.10.10"
+  }
+}
